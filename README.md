@@ -2,7 +2,7 @@
 
 ## 1. Project Description
 - Step 1: Create a data model for a data warehouse (Snowflake).
-- Step 2: Write the ETL script to transform the data from the original tables to the data model.
+- Step 2: Write the ETL script (DDL, DML) to transform the data from the original tables to the data model.
 
 ## 2. About the Data
 The Sakila database (originally created by MySQL) is a normalised schema modelling a DVD rental store, featuring films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals. 
