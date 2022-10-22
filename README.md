@@ -5,7 +5,7 @@
 - Step 2: Write the ETL script to transform the data from the original tables to the data model.
 
 ## 2. About the Data
-The Sakila database is a nicely normalised schema modelling a DVD rental store, featuring things like films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals. The database relationship in the original database looks like this:
+The Sakila database (originally created by MySQL) is a nicely normalised schema modelling a DVD rental store, featuring things films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals. The database relationship in the original database looks like this:
 ![sakila_os_diagram](https://user-images.githubusercontent.com/74939090/197332630-f9508613-de3e-4698-90a3-f7d1902d70c6.png)
 
 
