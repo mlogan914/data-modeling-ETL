@@ -13,7 +13,7 @@ In this project, we need to make a data model to meet the following requirements
 
 The goal is to create a data model where the user can easily query using simple SQL queries SELECT, GROUP BY, JOIN.
 
-## 3. Specification Detail
+## 2. Project Steps
 1. Load the origial data into the landing area.
 2. Analyze the Business Requirements and translate the requirements into the technical requirements (rough formulas).
 3. Consider the Grain of the data model based the above Requirements; Consider the atomic row of a fact table.
@@ -23,6 +23,6 @@ The goal is to create a data model where the user can easily query using simple 
 7. Write ETL script to transform data from the original tables to the target tables in the data model.
 
 
-## 4. Project Diagram:
+## 3. Project Diagram:
 ![Docker_lab_Process](https://user-images.githubusercontent.com/74939090/191591390-3b93c7b8-a7c2-4dce-8f61-049a65102652.jpg)
 
