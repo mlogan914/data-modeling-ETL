@@ -6,7 +6,9 @@
 
 ## 2. About the Data
 The dataset is the Sakila database about online DVD store. The database relationship in the original database will be like this:
-![Docker_lab_Process](https://user-images.githubusercontent.com/74939090/191591390-3b93c7b8-a7c2-4dce-8f61-049a65102652.jpg)
+![sakila_os_diagram](https://user-images.githubusercontent.com/74939090/197332630-f9508613-de3e-4698-90a3-f7d1902d70c6.png)
+
+
 
 ## 3. Business Requirements
 In this project, we need to make a data model to meet the following requirements from the managemental team:
