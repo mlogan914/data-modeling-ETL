@@ -1,4 +1,4 @@
-# Mini Project -- Data Warehouse Modelling using Snowflake via DBeaver
+# Mini Project -- Data Warehouse Modeling using Snowflake via DBeaver
 
 ## 1. Project Description
 - Step 1: Create a data model for a data warehouse (Snowflake).
