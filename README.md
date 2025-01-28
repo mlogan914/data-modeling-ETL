@@ -1,4 +1,4 @@
-# Mini Project - Data Warehouse Modeling using Snowflake via DBeaver
+# Mini Project: Data Warehouse Modeling using Snowflake
 
 ## 1. Project Description
 - Step 1: Create a data model for a data warehouse (Snowflake).
@@ -9,8 +9,6 @@ The Sakila database (originally created by MySQL) is a normalised schema modelli
 
 The database relationship in the original database looks like this:
 ![sakila_os_diagram](https://user-images.githubusercontent.com/74939090/197332630-f9508613-de3e-4698-90a3-f7d1902d70c6.png)
-
-
 
 ## 3. Business Requirements
 In this project, we need to make a data model to meet the following requirements from the managemental team:
